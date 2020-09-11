@@ -1,6 +1,0 @@
-projectKey=jojo
-serverUrl=http://localhost:9000
-serverVersion=8.4.2.36762
-dashboardUrl=http://localhost:9000/dashboard?id=jojo
-ceTaskId=AXRvaEaDnZ6zAz5d4pWj
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AXRvaEaDnZ6zAz5d4pWj
