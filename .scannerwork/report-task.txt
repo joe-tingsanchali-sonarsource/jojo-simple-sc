@@ -1,6 +1,0 @@
-projectKey=jojo-js
-serverUrl=https://ee79-jting-us.ngrok.io
-serverVersion=7.9.4.35981
-dashboardUrl=https://ee79-jting-us.ngrok.io/dashboard?id=jojo-js
-ceTaskId=AXiVudte0RHkvFkkJ_pV
-ceTaskUrl=https://ee79-jting-us.ngrok.io/api/ce/task?id=AXiVudte0RHkvFkkJ_pV
