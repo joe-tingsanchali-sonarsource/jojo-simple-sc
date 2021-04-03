@@ -1,6 +1,6 @@
-projectKey=jojo
-serverUrl=http://localhost:9000
+projectKey=jojo-js
+serverUrl=https://ee79-jting-us.ngrok.io
 serverVersion=7.9.4.35981
-dashboardUrl=http://localhost:9000/dashboard?id=jojo
-ceTaskId=AXR0iXS-llnaRCO3FGU4
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AXR0iXS-llnaRCO3FGU4
+dashboardUrl=https://ee79-jting-us.ngrok.io/dashboard?id=jojo-js
+ceTaskId=AXiVudte0RHkvFkkJ_pV
+ceTaskUrl=https://ee79-jting-us.ngrok.io/api/ce/task?id=AXiVudte0RHkvFkkJ_pV
