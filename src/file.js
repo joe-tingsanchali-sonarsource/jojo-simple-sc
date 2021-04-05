@@ -13,3 +13,8 @@ bugFrom102b=0;
 bugFrom103a=0;
 bugFrom103b=0;
 bugFrom103c=0;
+
+bugFrom104a=0;
+bugFrom104b=0;
+bugFrom104c=0;
+bugFrom104d=0;
