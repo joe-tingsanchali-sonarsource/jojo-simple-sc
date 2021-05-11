@@ -1,4 +1,7 @@
 .scannerwork
+*.json
+Jenkinsfile
+node_modules
 
 # From https://github.com/github/gitignore/blob/master/Gradle.gitignore
 .gradle
