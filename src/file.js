@@ -66,3 +66,37 @@ const student = {
 const newObj = Object.assign(person, student);
 
 console.log(newObj);
+aiwefoajwefoiajwe=293;
+aiwefoajwefoiajwe=293;
+aiwefoajwefoiajwe=293;
+aiwefoajwefoiajwe=293;
+aiwefoajwefoiajwe=293;
+aiwefoajwefoiajwe=293;
+aiwefoajwefoiajwe=293;
+aiwefoajwefoiajwe=293;
+aiwefoajwefoiajwe=293;
+aiwefoajwefoiajwe=293;
+aiwefoajwefoiajwe=293;
+aiwefoajwefoiajwe=293;
+aiwefoajwefoiajwe=293;
+aiwefoajwefoiajwe=293;
+aiwefoajwefoiajwe=293;
+aiwefoajwefoiajwe=293;
+aiwefoajwefoiajwe=293;
+aiwefoajwefoiajwe=293;
+aiwefoajwefoiajwe=293;
+aiwefoajwefoiajwe=293;
+aiwefoajwefoiajwe=293;
+aiwefoajwefoiajwe=293;
+aiwefoajwefoiajwe=293;
+aiwefoajwefoiajwe=293;
+aiwefoajwefoiajwe=293;
+aiwefoajwefoiajwe=293;
+aiwefoajwefoiajwe=293;
+aiwefoajwefoiajwe=293;
+aiwefoajwefoiajwe=293;
+aiwefoajwefoiajwe=293;
+aiwefoajwefoiajwe=293;
+aiwefoajwefoiajwe=293;
+aiwefoajwefoiajwe=293;
+
