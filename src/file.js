@@ -47,3 +47,6 @@ let obj = {
 };
 
 console.log(obj?.prop1?.prop2?.someProp);
+
+
+owiejfoaiewjf=9999;
