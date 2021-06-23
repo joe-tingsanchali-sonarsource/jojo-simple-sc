@@ -52,3 +52,17 @@ console.log(obj?.prop1?.prop2?.someProp);
 owiejfoaiewjf=9999;
 oiawjefoajefoiawjefo=29839283;
 aioergoiar=234234;
+
+const person = {
+    name: 'Jack',
+    age: 26
+}
+
+const student = {
+    gender: 'male'
+}
+
+// merge two objects
+const newObj = Object.assign(person, student);
+
+console.log(newObj);
