@@ -14,7 +14,7 @@ pool:
 steps:
 - task: SonarQubePrepare@4
   inputs:
-    SonarQube: 'ee87'
+    SonarQube: 'ru79'
     scannerMode: 'CLI'
     configMode: 'manual'
     cliProjectKey: 'jojo'
