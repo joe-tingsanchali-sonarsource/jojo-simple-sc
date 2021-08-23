@@ -4,7 +4,7 @@ i = 0;
 j=0;
 
 
-
+helloFromFeatureTestRemoveTwoBugs="what";
 bugFrom101=0;
 
 bugFrom102a=0;
