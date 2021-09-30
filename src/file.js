@@ -3,6 +3,7 @@ i = 0;
 
 j=0;
 k=0;
+l=0;
 
 
 helloFromFeatureTestRemoveTwoBugs="what";
