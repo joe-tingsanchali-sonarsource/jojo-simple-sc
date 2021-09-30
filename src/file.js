@@ -6,6 +6,12 @@ k=0;
 l=0;
 
 
+aoweifja=0;
+aorgoieoi=0;
+aoiio34io=0;
+aoweif23=0;
+
+
 helloFromFeatureTestRemoveTwoBugs="what";
 bugFrom101=0;
 
