@@ -1,0 +1,28 @@
+# Starter pipeline
+
+
+# Start with a minimal pipeline that you can customize to build and deploy your code.
+# Add steps that build, run tests, deploy, and more:
+# https://aka.ms/yaml
+
+trigger:
+- main
+
+pool:
+  vmImage: 'ubuntu-20.04'
+
+steps:
+- task: SonarQubePrepare@4
+  inputs:
+    SonarQube: 'ru79'
+    scannerMode: 'CLI'
+    configMode: 'manual'
+    cliProjectKey: 'jojo'
+    cliProjectName: 'jojo'
+    cliSources: '.'
+    extraProperties: |
+      sonar.verbose=true
+- task: SonarQubeAnalyze@4
+- task: SonarQubePublish@4
+  inputs:
+    pollingTimeoutSec: '300'
