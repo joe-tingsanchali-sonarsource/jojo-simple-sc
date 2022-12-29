@@ -4,6 +4,9 @@ i = 0;
 j=0;
 k=0;
 l=0;
+var someClass = 1;
+
+var obj1 = new someClass;    // Noncompliant;
 
 
 aoweifja=0;
