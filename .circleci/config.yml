@@ -3,7 +3,7 @@ version: 2.1
 jobs:
   build:
     docker:
-      - image: cimg/node:14.18.2-bullseye
+      - image: cimg/node:lts
     steps:
       - checkout
       # - run:
