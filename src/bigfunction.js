@@ -74,4 +74,19 @@ function task_1() {
     console.log("in task 1");
     console.log("in task 1");
     console.log("in task 1");
+    console.log("in task 1");
+    console.log("in task 1");
+    console.log("in task 1");
+    console.log("in task 1");
+    console.log("in task 1");
+    console.log("in task 1");
+    console.log("in task 1");
+    console.log("in task 1");
+    console.log("in task 1");
+    console.log("in task 1");
+    console.log("in task 1");
+    console.log("in task 1");
+    console.log("in task 1");
+    console.log("in task 1");
+    console.log("in task 1");
 }
