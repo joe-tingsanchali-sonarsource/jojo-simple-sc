@@ -17,7 +17,7 @@ jobs:
       - name: curl
         uses: wei/curl@master
         with:
-          args: https://httpbin.org/get
+          args: -v https://sonarqa-ext.teachersfcu.org/api/server/version
 #       - uses: sonarsource/sonarqube-scan-action@master
 #         env:
 #           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
