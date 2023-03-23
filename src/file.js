@@ -5,6 +5,7 @@ j=0;
 k=0;
 l=0;
 var someClass = 1;
+aoewjofaiewf=2920;
 
 var obj1 = new someClass;    // Noncompliant;
 
