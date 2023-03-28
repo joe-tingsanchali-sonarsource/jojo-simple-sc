@@ -6,6 +6,7 @@ k=0;
 l=0;
 var someClass = 1;
 aoewjofaiewf=2920;
+aleroaeroaoiaeroi20=23928989;
 
 var obj1 = new someClass;    // Noncompliant;
 
