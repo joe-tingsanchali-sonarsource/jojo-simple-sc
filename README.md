@@ -1,3 +1,3 @@
-jojo demo test of single JS SQ issue
+jojo demo test of JS SQ issues
 
 now on sonarcloud.io
