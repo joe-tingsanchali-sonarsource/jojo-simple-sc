@@ -26,3 +26,42 @@ end
 def load_settings(yaml_string)
   YAML.load(yaml_string)
 end
+
+class Inventory
+  def initialize
+    @items = [] # Potential naming clash
+  end
+
+  def add_item(name, quantity)
+    @items << { name: name, quantity: quantity }
+  end
+
+  def item_in_stock?(name)
+    @items.each do |item|
+      return true if name == item[:name] 
+    end
+    return false # Unnecessary return
+  end
+
+  def total_stock
+    total = 0
+    @items.each do |item|
+      total =+ item[:quantity] # `+=` can be used 
+    end
+    total
+  end
+
+  # Private methods not marked 'private'
+  def display_inventory 
+    # ...
+  end 
+end
+
+# Usage
+inventory = Inventory.new
+inventory.add_item("Laptop", 5) 
+
+# ...later
+if inventory.item_in_stock?("Laptop")
+  puts "Laptops are in stock!"
+end 
