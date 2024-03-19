@@ -3,16 +3,16 @@ version: 2.1
 jobs:
   build:
     docker:
-      - image: cimg/node:lts
+      - image: 'cimg/openjdk:21.0.2'
     steps:
       - checkout
       # - run:
       #     name: Install dependencies and build project
-      #     command: 'npm i'
+      #     command: ********** CHANGE ME 2 **********
       - sonarcloud/scan
 
 orbs:
-  sonarcloud: sonarsource/sonarcloud@1.0.3
+  sonarcloud: sonarsource/sonarcloud@2.0.0
 
 workflows:
   main:
